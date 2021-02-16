@@ -5,7 +5,7 @@
             :url "https://github.com/ServiceStack/gistcafe-kotlin/blob/main/LICENSE"}
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/data.json "1.0.0"]
-                 [net.servicestack/gistcafe "0.0.6"]
+                 [net.servicestack/gistcafe "0.0.7"]
                  [org.jetbrains.kotlin/kotlin-stdlib "1.4.21"]
                  [com.google.code.gson/gson "2.8.6"]]
   :main main)
